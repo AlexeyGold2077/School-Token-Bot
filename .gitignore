@@ -25,3 +25,5 @@ replay_pid*
 
 #my shit
 token.java
+*.lst
+target/
