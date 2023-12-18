@@ -27,3 +27,4 @@ replay_pid*
 *token.java
 *.lst
 target/
+.vscode/
